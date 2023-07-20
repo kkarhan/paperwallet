@@ -12,12 +12,6 @@ Look to instructions on the site to use it: [paperwallet.openmonero.com](https:/
 3. Click "Download this Paper Wallet"
 4. Print it!
 
-### Online
-1. Open [the Website](https://paperwallet.openmonero.com/)
-2. Click "Generate new Wallet"
-3. Click "Download this Paper Wallet"
-4. Print it!
-
 ---
 ## [How to redeem?](./howto_redeem.md)
 - Import it into your wallet of choice.
