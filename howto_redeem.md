@@ -9,7 +9,7 @@ Congratulations, you've been given a paper wallet with likely some Monero on it.
 ---
 ## Important
 ### Do not share the "Seed Phrase" written on it!
-###### The Seed Phrase acts like a PIN and Username and allows every person who has knowledge of it to send, recieve and see all transactions related to it.
+#### The Seed Phrase acts like a PIN and Username and allows every person who has knowledge of it to send, recieve and see all transactions related to it.
 ##### Keep it secret!!
 ###
 
