@@ -12,6 +12,6 @@
 4. Print it!
 
 ---
-## [How to redeem?](./howto_redeem.md)
+## [How to redeem?](docs/howto_redeem.md)
 - Import it into your wallet of choice.
-  - [For more details, look at the instructions as can be found here.](./howto_redeem.md)
+  - [For more details, look at the instructions as can be found here.](docs/howto_redeem.md)
